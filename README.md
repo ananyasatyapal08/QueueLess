@@ -410,8 +410,13 @@ GitHub: https://github.com/Akanksha-Singh27
 LinkedIn: https://www.linkedin.com/in/akanksha-singh-858020327/
 
 **Ananya Satyapal**
-- GitHub: https://github.com/...
-- LinkedIn: https://linkedin.com/in/...
+
+B.Tech Electronics & Communication Engineering(AI Specialization)
+
+Indira Gandhi Delhi Technical University for Women (IGDTUW)
+
+- GitHub: https://github.com/ananyasatyapal08
+- LinkedIn: https://www.linkedin.com/in/ananya-satyapal-2552952b6/
 
 **Sneha Pandey**
 - GitHub: https://github.com/...
