@@ -419,8 +419,8 @@ Indira Gandhi Delhi Technical University for Women (IGDTUW)
 - LinkedIn: https://www.linkedin.com/in/ananya-satyapal-2552952b6/
 
 **Sneha Pandey**
-- GitHub: https://github.com/...
-- LinkedIn: https://linkedin.com/in/...
+- GitHub: https://github.com/snehap27
+- LinkedIn: https://linkedin.com/in/snehapandey27/
 
 ---
 
